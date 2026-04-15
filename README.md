@@ -1,6 +1,6 @@
 #  Hospital Management & Analytics System
 
-## 🚀 Features
+## Features
 
 * Add and view patients
 * Add and view doctors
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * MySQL
@@ -46,7 +46,7 @@ python app.py
 
 ---
 
-## 📊 Output
+## Output
 
 * Console-based system
 * Stores and retrieves hospital data
